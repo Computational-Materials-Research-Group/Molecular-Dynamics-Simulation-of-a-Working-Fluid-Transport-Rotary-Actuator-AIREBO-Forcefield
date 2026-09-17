@@ -398,11 +398,7 @@ Plain text citation:
   **112**, 6472-6486 (2000). This is the standard reference for the AIREBO
   formulation implemented by LAMMPS's `pair_style airebo`; confirm this matches the
   specific version/parameterization of `CH.airebo` in this repository.
-- **`c60_ratchetOP.data`** -- source/build script not available at write time. _Add
-  the actual origin here (e.g. the CAD export or hand-built script that generated
-  this structure) -- it is not included in this README because it wasn't available
-  when this file was written; please don't leave a fabricated reference in its
-  place._
+
 
 ## License
 
