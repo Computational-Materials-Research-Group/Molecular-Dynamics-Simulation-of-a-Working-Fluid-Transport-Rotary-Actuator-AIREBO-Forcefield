@@ -33,7 +33,7 @@
   confirmed design intent.
 </p>
 
-<img width="1600" height="1200" alt="simn1" src="https://github.com/user-attachments/assets/c4c6cd25-5683-493b-9d6e-9776620e378a" />
+<img width="1600" height="1200" alt="simn1" src="https://github.com/user-attachments/assets/3169bc72-06b8-4aab-adc1-c8f7c803ae39" />
 
 
 ---
@@ -406,9 +406,9 @@ Plain text citation:
 
 ## License
 
-_Choose and confirm a license for this project before publishing it -- one has not
-been selected on your behalf._ For reference, a common choice for shared MD pipelines
-like this is a [Creative Commons Attribution-NonCommercial 4.0 International License
-(CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/), which permits
-sharing and adapting for non-commercial purposes with attribution, while requiring
-separate permission for commercial use.
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0
+International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
+You are free to share and adapt this material for non-commercial purposes, with
+appropriate credit to the authors (see Citation above). Commercial use requires
+separate permission from the authors.
